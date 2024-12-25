@@ -97,7 +97,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/praveenshr/Horizon-Banking-Platform.git
-cd banking
+cd Horizon-Banking-Platform
 ```
 
 **Installation**
