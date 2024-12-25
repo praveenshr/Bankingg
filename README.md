@@ -1,5 +1,3 @@
-# Horizon - Financial SaaS Platform 🚀
-
 ## 🌍 Live Hosted App
 [![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://link-to-demo.com)  
 Explore the app in real-time and see how Horizon helps you manage your finances.
@@ -10,7 +8,6 @@ Explore the app in real-time and see how Horizon helps you manage your finances.
 **Horizon** is a cutting-edge financial SaaS platform built with **Next.js** that offers seamless integration with multiple bank accounts. It provides real-time transaction updates, money transfers, and comprehensive financial management tools, all in one place.
 
 - 💡 **Key Features**: Bank account linking, real-time transaction tracking, fund transfers, and more.
-- 🌐 **Community**: Join our **[Discord community](https://discord.com/invite/community)** with over 34k+ active members to get support, share ideas, or report bugs.
 
 ---
 
