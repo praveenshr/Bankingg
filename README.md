@@ -81,7 +81,6 @@ Explore the app in real-time and see how Horizon helps you manage your finances.
 
 ## 📦 Installation
 
-# Horizon Banking App Installation and Setup
 
 Follow the steps below to set up the Horizon Banking App on your local machine.
 
