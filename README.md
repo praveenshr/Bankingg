@@ -81,6 +81,35 @@ Explore the app in real-time and see how Horizon helps you manage your finances.
 
 ## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/horizon.git
+# Step 1: Clone the repository
+git clone https://github.com/praveenshr/Horizon-Banking-Platform.git
+
+# Step 2: Change directory to the project folder
+cd Horizon-Banking-Platform
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Create a .env file and add your environment variables
+
+echo 'NEXT_PUBLIC_SITE_URL=' > .env
+echo 'NEXT_PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1' >> .env
+echo 'NEXT_PUBLIC_APPWRITE_PROJECT=' >> .env
+echo 'APPWRITE_DATABASE_ID=' >> .env
+echo 'APPWRITE_USER_COLLECTION_ID=' >> .env
+echo 'APPWRITE_BANK_COLLECTION_ID=' >> .env
+echo 'APPWRITE_TRANSACTION_COLLECTION_ID=' >> .env
+echo 'APPWRITE_SECRET=' >> .env
+echo 'PLAID_CLIENT_ID=' >> .env
+echo 'PLAID_SECRET=' >> .env
+echo 'PLAID_ENV=' >> .env
+echo 'PLAID_PRODUCTS=' >> .env
+echo 'PLAID_COUNTRY_CODES=' >> .env
+echo 'DWOLLA_KEY=' >> .env
+echo 'DWOLLA_SECRET=' >> .env
+echo 'DWOLLA_BASE_URL=https://api-sandbox.dwolla.com' >> .env
+echo 'DWOLLA_ENV=sandbox' >> .env
+
+# Step 5: Run the application
+npm run dev
+
