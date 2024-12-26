@@ -1,5 +1,12 @@
 ## 🌍 Live Hosted App
 [![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://link-to-demo.com)  
+
+🔑 Demo Login
+
+| Field       | Details                  |
+|-------------|--------------------------|
+| **Username**| demo@horizon.com         |
+| **Password**| demo123                  |
 Explore the app in real-time and see how Horizon helps you manage your finances.
 
 ---
@@ -64,15 +71,6 @@ Explore the app in real-time and see how Horizon helps you manage your finances.
 - **Complex Integrations**: Integrating multiple third-party services (Plaid, Dwolla) requires careful API management and adherence to rate limits.
   
 - **Real-Time Functionality**: Managing real-time data across multiple users and banks required careful design of state management and WebSocket connections.
-
----
-
-## 🔑 Demo Login
-
-| Field       | Details                  |
-|-------------|--------------------------|
-| **Username**| demo@horizon.com         |
-| **Password**| demo123                  |
 
 ---
 
