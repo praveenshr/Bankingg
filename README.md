@@ -1,6 +1,5 @@
 ## 🌍 Live Hosted App
 [![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://link-to-demo.com)  
-
 🔑 Demo Login
 
 | Field       | Details                  |
