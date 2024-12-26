@@ -5,8 +5,8 @@
 
 | Field       | Details                  |
 |-------------|--------------------------|
-| **Username**| demo@horizon.com         |
-| **Password**| demo123                  |
+| **Username**| demo@example.com         |
+| **Password**| password123              |
 
 Explore the app in real-time and see how Horizon helps you manage your finances.
 
