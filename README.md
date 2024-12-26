@@ -2,7 +2,7 @@
 
 [![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://link-to-demo.com)  
 
-🔑 Use The demo login details
+🔑 Use the demo login details
 
 | Field       | Details                  |
 |-------------|--------------------------|
