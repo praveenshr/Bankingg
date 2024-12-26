@@ -7,6 +7,7 @@
 |-------------|--------------------------|
 | **Username**| demo@horizon.com         |
 | **Password**| demo123                  |
+
 Explore the app in real-time and see how Horizon helps you manage your finances.
 
 ---
