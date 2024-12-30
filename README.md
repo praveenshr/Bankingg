@@ -3,16 +3,6 @@
 [![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)  
 *(Right-click the link and select "Open link in new tab")*
 
-
-🔑 Use the demo login details
-
-| Field       | Details                  |
-|-------------|--------------------------|
-| **Username**| demo@example.com         |
-| **Password**| password123              |
-
-Explore the app in real-time and see how Horizon helps you manage your finances.
-
 ---
 
 ## 📚 Introduction
