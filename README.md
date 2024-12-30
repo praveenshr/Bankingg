@@ -1,6 +1,8 @@
 ## 🌍 Live Hosted App
 
-[![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://link-to-demo.com)  
+[![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)  
+*(Right-click the link and select "Open link in new tab")*
+
 
 🔑 Use the demo login details
 
